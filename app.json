@@ -1,0 +1,12 @@
+{
+  "name": "movieProject",
+  "displayName": "movieProject",
+  "expo": {
+    "name": "movieProject",
+    "slug": "movieProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
